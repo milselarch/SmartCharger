@@ -1,0 +1,1 @@
+test scripts use python v3.12
